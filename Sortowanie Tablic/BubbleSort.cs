@@ -38,6 +38,8 @@ namespace Sortowanie_Tablic
             for (i = 0; i < size; i++)
                 Console.Write(arr[i] + " ");
             Console.WriteLine();
+
+        Conosle.wwwww  // Edycja Bartek
         }
 
     }
