@@ -19,7 +19,7 @@ namespace Sortowanie_Tablic
                     Console.WriteLine("----------------------------------------- ");
 
 
-                } while (!int.TryParse(Console.ReadLine(), out n) || n <= 3 && n >= 200);
+                } while (!int.TryParse(Console.ReadLine(), out n) || n <= 0);
 
                 Console.WriteLine(" ");                                     // estetyczne oddzielenie tesktu :)
 
