@@ -10,7 +10,10 @@ namespace Sortowanie_Tablic
     {
         public static void RandomTab()
         {
-            // Tworzenie tablicy "Random"
+            // Trzeba ogarnąć jak to podpiąć złączyć z funkcją sortowania bo niestety jak próbowałam to menda nie wykrywa tej klasy
+            // Ewentualnie zosatwić już kod w Main a ta klase wywalić
+
+
 
             int n;                                                                  // tworzymy zmienną, która posłuży nam jako parametr do wypisania tablicy o długości ustalonej przez użytkownika
             do                                                                      // funkcja zabezpieczająca przed wpisaniem nieporządanego symbolu ( liczby ujemne jak i litery)
