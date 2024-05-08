@@ -47,7 +47,7 @@ namespace Sortowanie_Tablic
             Console.WriteLine("Sorted array:");
             Console.WriteLine("------------- " + "\n");
             BubbleSort.print(arr, n);
-            Console.WriteLine("\n");
+            Console.WriteLine("\n"); 
         }
     }
 }
