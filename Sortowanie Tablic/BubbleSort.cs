@@ -39,7 +39,6 @@ namespace Sortowanie_Tablic
                 Console.Write(arr[i] + " ");
             Console.WriteLine();
 
-        Conosle.wwwww  // Edycja Bartek
         }
 
     }
