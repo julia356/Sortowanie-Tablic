@@ -40,6 +40,7 @@ namespace Sortowanie_Tablic
                 Console.WriteLine("\n");
 
 
+
             // Sortowanie bombelkowe
             BubbleSort.bubbleSort(arr, n);
             Console.WriteLine("------------- ");
